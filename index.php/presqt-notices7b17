@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">PresQT News</title>
+	<subtitle type="text">New grant related website for thePreservation Quality Tool</subtitle>
+	<link rel="alternate" type="text/html" href="https://presqt.crc.nd.edu"/>
+	<id>https://presqt.crc.nd.edu/index.php/presqt-notices</id>
+	<updated>2024-06-24T19:32:18+00:00</updated>
+	<author>
+		<name>Preservation Quality Tool</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://presqt.crc.nd.edu/index.php/presqt-notices?format=feed&amp;type=atom"/>
+	<entry>
+		<title>PresQT Partner Workshop</title>
+		<link rel="alternate" type="text/html" href="https://presqt.crc.nd.edu/index.php/presqt-notices/36-save-the-date-presqt-partner-workshop"/>
+		<published>2020-12-15T18:19:41+00:00</published>
+		<updated>2020-12-15T18:19:41+00:00</updated>
+		<id>https://presqt.crc.nd.edu/index.php/presqt-notices/36-save-the-date-presqt-partner-workshop</id>
+		<author>
+			<name>Natalie Meyers</name>
+		</author>
+		<summary type="html">&lt;strong&gt;&lt;a href = &quot;https://presqt.crc.nd.edu/index.php/workshops/2021-partner-mtg&quot;&gt;PresQT Partner Workshop&lt;/a&gt;&lt;/strong&gt;
+&lt;em&gt;March 15-16, 2021 
+1PM-3PM (Eastern Time)&lt;/em&gt;&lt;br&gt;
+
+ &lt;a href =&quot;https://docs.google.com/document/d/1JjJm1gk3Aw4_dbCW8AIZ0hyLPmPDjKvvRQmPNDmDhck/edit?usp=sharing&quot;&gt;Agenda&lt;/a&gt;
+
+</summary>
+		<content type="html">&lt;strong&gt;&lt;a href = &quot;https://presqt.crc.nd.edu/index.php/workshops/2021-partner-mtg&quot;&gt;PresQT Partner Workshop&lt;/a&gt;&lt;/strong&gt;
+&lt;em&gt;March 15-16, 2021 
+1PM-3PM (Eastern Time)&lt;/em&gt;&lt;br&gt;
+
+ &lt;a href =&quot;https://docs.google.com/document/d/1JjJm1gk3Aw4_dbCW8AIZ0hyLPmPDjKvvRQmPNDmDhck/edit?usp=sharing&quot;&gt;Agenda&lt;/a&gt;
+
+</content>
+		<category term="PresQT News" />
+	</entry>
+	<entry>
+		<title>Demo PresQT</title>
+		<link rel="alternate" type="text/html" href="https://presqt.crc.nd.edu/index.php/presqt-notices/35-documentation-updates"/>
+		<published>2020-12-07T18:29:11+00:00</published>
+		<updated>2020-12-07T18:29:11+00:00</updated>
+		<id>https://presqt.crc.nd.edu/index.php/presqt-notices/35-documentation-updates</id>
+		<author>
+			<name>Natalie Meyers</name>
+		</author>
+		<summary type="html">&lt;strong&gt;&lt;a href = &quot;https://docs.google.com/presentation/d/1YcaLB-HDb81p9GT5LrRaRCKbmU8D-ISdDRL59-7NUHw/edit?usp=sharing&quot;&gt;Demonstrating PresQT Services&lt;/a&gt; &lt;/strong&gt;  for FAIR Software and Data Preservation
+ CNI Fall 2020 Virtual Membership Meeting. (Dec 1 2020) doi:10.17605/OSF.IO/3GNQD</summary>
+		<content type="html">&lt;strong&gt;&lt;a href = &quot;https://docs.google.com/presentation/d/1YcaLB-HDb81p9GT5LrRaRCKbmU8D-ISdDRL59-7NUHw/edit?usp=sharing&quot;&gt;Demonstrating PresQT Services&lt;/a&gt; &lt;/strong&gt;  for FAIR Software and Data Preservation
+ CNI Fall 2020 Virtual Membership Meeting. (Dec 1 2020) doi:10.17605/OSF.IO/3GNQD</content>
+		<category term="PresQT News" />
+	</entry>
+	<entry>
+		<title>PresQT welcomes QA Testers! </title>
+		<link rel="alternate" type="text/html" href="https://presqt.crc.nd.edu/index.php/presqt-notices/34-presqt-welcomes-qa-testers"/>
+		<published>2020-08-14T15:26:12+00:00</published>
+		<updated>2020-08-14T15:26:12+00:00</updated>
+		<id>https://presqt.crc.nd.edu/index.php/presqt-notices/34-presqt-welcomes-qa-testers</id>
+		<author>
+			<name>Natalie Meyers</name>
+		</author>
+		<summary type="html">&lt;strong&gt;Help test &lt;/strong&gt;the live &lt;a href = &quot;https://presqt-prod.crc.nd.edu/ui/&quot;&gt;Alpha version of PresQT Services&lt;/a&gt;. 
+&lt;a href = &quot;https://presqt.readthedocs.io/en/latest/qa.html&quot;&gt;Here's how! &lt;/a&gt;</summary>
+		<content type="html">&lt;strong&gt;Help test &lt;/strong&gt;the live &lt;a href = &quot;https://presqt-prod.crc.nd.edu/ui/&quot;&gt;Alpha version of PresQT Services&lt;/a&gt;. 
+&lt;a href = &quot;https://presqt.readthedocs.io/en/latest/qa.html&quot;&gt;Here's how! &lt;/a&gt;</content>
+		<category term="PresQT News" />
+	</entry>
+	<entry>
+		<title>Community Calls</title>
+		<link rel="alternate" type="text/html" href="https://presqt.crc.nd.edu/index.php/presqt-notices/31-community-calls"/>
+		<published>2018-11-16T17:38:34+00:00</published>
+		<updated>2018-11-16T17:38:34+00:00</updated>
+		<id>https://presqt.crc.nd.edu/index.php/presqt-notices/31-community-calls</id>
+		<author>
+			<name>Natalie Meyers</name>
+		</author>
+		<summary type="html">&lt;strong&gt;&lt;a href=&quot;https://presqt.crc.nd.edu/index.php?option=com_content&amp;view=article&amp;id=32&amp;catid=2&quot;&gt;2021 Community Call Calendar&lt;/a&gt;:&lt;/strong&gt;
+ &lt;a href = &quot;index.php?option=com_content&amp;view=article&amp;id=32&amp;catid=2&quot;&gt;Via Zoom https://notredame.zoom.us/j/391274418&lt;/a&gt;
+Every Two Weeks on Mon  1-1:50PM (Eastern Time) 
+</summary>
+		<content type="html">&lt;strong&gt;&lt;a href=&quot;https://presqt.crc.nd.edu/index.php?option=com_content&amp;view=article&amp;id=32&amp;catid=2&quot;&gt;2021 Community Call Calendar&lt;/a&gt;:&lt;/strong&gt;
+ &lt;a href = &quot;index.php?option=com_content&amp;view=article&amp;id=32&amp;catid=2&quot;&gt;Via Zoom https://notredame.zoom.us/j/391274418&lt;/a&gt;
+Every Two Weeks on Mon  1-1:50PM (Eastern Time) 
+</content>
+		<category term="PresQT News" />
+	</entry>
+	<entry>
+		<title>Jan 28-29 Partner Mtg to be held at ND</title>
+		<link rel="alternate" type="text/html" href="https://presqt.crc.nd.edu/index.php/presqt-notices/29-jan-28-29-partner-mtg-to-be-held-at-nd"/>
+		<published>2018-11-16T17:16:03+00:00</published>
+		<updated>2018-11-16T17:16:03+00:00</updated>
+		<id>https://presqt.crc.nd.edu/index.php/presqt-notices/29-jan-28-29-partner-mtg-to-be-held-at-nd</id>
+		<author>
+			<name>Natalie Meyers</name>
+		</author>
+		<summary type="html">&lt;strong&gt;Jan 28-29 &lt;a href=&quot;https://presqt.crc.nd.edu/index.php?option=com_content&amp;view=article&amp;id=30&amp;catid=8&quot;&gt;Partner Meeting Jan 2019&lt;/a&gt;&lt;/strong&gt; 
+Noon-5pm EST Mon and 9am-3:30pm Tue
+@Hesburgh Libraries, Univ of Notre Dame</summary>
+		<content type="html">&lt;strong&gt;Jan 28-29 &lt;a href=&quot;https://presqt.crc.nd.edu/index.php?option=com_content&amp;view=article&amp;id=30&amp;catid=8&quot;&gt;Partner Meeting Jan 2019&lt;/a&gt;&lt;/strong&gt; 
+Noon-5pm EST Mon and 9am-3:30pm Tue
+@Hesburgh Libraries, Univ of Notre Dame</content>
+		<category term="PresQT News" />
+	</entry>
+	<entry>
+		<title>Implementation</title>
+		<link rel="alternate" type="text/html" href="https://presqt.crc.nd.edu/index.php/presqt-notices/25-2018-implementation-phase-kickoff-will-be-sept-17-18th"/>
+		<published>2018-07-26T18:56:46+00:00</published>
+		<updated>2018-07-26T18:56:46+00:00</updated>
+		<id>https://presqt.crc.nd.edu/index.php/presqt-notices/25-2018-implementation-phase-kickoff-will-be-sept-17-18th</id>
+		<author>
+			<name>Natalie Meyers</name>
+		</author>
+		<summary type="html">&lt;strong&gt;&lt;a href=&quot;https://presqt.crc.nd.edu/index.php?option=com_content&amp;view=article&amp;id=26&amp;catid=8&quot;&gt;2018 Kickoff Mtg&lt;/a&gt; Sept 17-18&lt;/strong&gt;
+at Notre Dame: 
+&lt;strong&gt;&lt;a href=&quot;https://presqt.crc.nd.edu/index.php?option=com_content&amp;view=article&amp;id=28&amp;catid=2&quot;&gt;Agenda&lt;/a&gt;&lt;/strong&gt;  |
+ &lt;strong&gt;&lt;a href =&quot;https://osf.io/view/PRESQT2018/&quot;&gt;Speaker Slides&lt;/a&gt;&lt;/strong&gt; 
+
+
+</summary>
+		<content type="html">&lt;strong&gt;&lt;a href=&quot;https://presqt.crc.nd.edu/index.php?option=com_content&amp;view=article&amp;id=26&amp;catid=8&quot;&gt;2018 Kickoff Mtg&lt;/a&gt; Sept 17-18&lt;/strong&gt;
+at Notre Dame: 
+&lt;strong&gt;&lt;a href=&quot;https://presqt.crc.nd.edu/index.php?option=com_content&amp;view=article&amp;id=28&amp;catid=2&quot;&gt;Agenda&lt;/a&gt;&lt;/strong&gt;  |
+ &lt;strong&gt;&lt;a href =&quot;https://osf.io/view/PRESQT2018/&quot;&gt;Speaker Slides&lt;/a&gt;&lt;/strong&gt; 
+
+
+</content>
+		<category term="PresQT News" />
+	</entry>
+	<entry>
+		<title>PresQT Needs News</title>
+		<link rel="alternate" type="text/html" href="https://presqt.crc.nd.edu/index.php/presqt-notices/21-presqt-needs-news"/>
+		<published>2017-08-08T02:05:37+00:00</published>
+		<updated>2017-08-08T02:05:37+00:00</updated>
+		<id>https://presqt.crc.nd.edu/index.php/presqt-notices/21-presqt-needs-news</id>
+		<author>
+			<name>Natalie Meyers</name>
+		</author>
+		<summary type="html">&lt;strong&gt;PresQT &lt;a href = &quot;https://ndlib.github.io/PresQTNeeds/&quot;&gt;Needs Assessment&lt;/a&gt;&lt;/strong&gt; data is available online. </summary>
+		<content type="html">&lt;strong&gt;PresQT &lt;a href = &quot;https://ndlib.github.io/PresQTNeeds/&quot;&gt;Needs Assessment&lt;/a&gt;&lt;/strong&gt; data is available online. </content>
+		<category term="PresQT News" />
+	</entry>
+	<entry>
+		<title>Announce OSF</title>
+		<link rel="alternate" type="text/html" href="https://presqt.crc.nd.edu/index.php/presqt-notices/8-placeholder-announcement-2"/>
+		<published>2016-12-01T16:09:32+00:00</published>
+		<updated>2016-12-01T16:09:32+00:00</updated>
+		<id>https://presqt.crc.nd.edu/index.php/presqt-notices/8-placeholder-announcement-2</id>
+		<author>
+			<name>Kristina Davis</name>
+		</author>
+		<summary type="html">&lt;p&gt;PresQT project resources now available on the &lt;a href=&quot;https://osf.io/d3jx7/&quot; target=&quot;_blank&quot;&gt;OSF&lt;/a&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;PresQT project resources now available on the &lt;a href=&quot;https://osf.io/d3jx7/&quot; target=&quot;_blank&quot;&gt;OSF&lt;/a&gt;.&lt;/p&gt;</content>
+		<category term="PresQT News" />
+	</entry>
+</feed>

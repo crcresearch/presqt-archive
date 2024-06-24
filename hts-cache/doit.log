@@ -1,5 +1,5 @@
-https://presqt.crc.nd.edu -O ./presqt +*.presqt.crc.nd.edu/* -v -s0
-File generated automatically on Mon, 06 May 2024 08:45:30, do NOT edit
+https://presqt.crc.nd.edu/ -O . *presqt.crc.nd.edu/* -v -s0 -N100
+File generated automatically on Mon, 24 Jun 2024 14:30:49, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
